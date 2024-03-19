@@ -3,10 +3,10 @@
 title: Client App
 ---
 
---mermaid
+```mermaid
 graph TD
     A --> B;
     B --> C;
     C --> A;
---
+```
     

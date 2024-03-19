@@ -3,7 +3,10 @@
 title: Client App
 ---
 
+--mermaid
 graph TD
-    id1([Program.cs]) --> id2[(Spreicher.cs)];
-    
+    A --> B;
+    B --> C;
+    C --> A;
+--
     
